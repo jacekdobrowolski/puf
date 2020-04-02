@@ -3,7 +3,7 @@
 # Edit at https://www.gitignore.io/?templates=code,matlab,python,vivado,xilinxvivado,jupyternotebooks,venv
 
 ### Code ###
-.vscode/*
+.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
